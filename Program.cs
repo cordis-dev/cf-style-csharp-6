@@ -10,7 +10,7 @@ namespace cf_style_csharp_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Test: {1} ");
+            Console.WriteLine($"Test: {1}  ");
 
 
         }

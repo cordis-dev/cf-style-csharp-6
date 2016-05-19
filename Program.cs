@@ -15,4 +15,13 @@ namespace cf_style_csharp_6
 
         }
     }
+    
+    public class Test
+    {
+        public void Init()
+        {
+            
+            
+        }
+    }
 }
